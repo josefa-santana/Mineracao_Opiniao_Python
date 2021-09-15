@@ -1,0 +1,1 @@
+# Mineracao_Opiniao_Python
